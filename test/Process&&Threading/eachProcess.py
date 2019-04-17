@@ -27,6 +27,7 @@ if __name__=='__main__':
     end = time.time()
     pw.start()
     pr.start()
+
     pw.join()
     # pr.join()
 
